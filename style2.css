@@ -1,0 +1,128 @@
+.heading {
+    display: flex;
+    justify-content: center;
+    font-size: xxx-large; 
+    color: brown;
+    text-decoration: underline;
+}
+.navlist {
+    display: flex;
+    justify-content: space-evenly;
+    font-size: x-large;
+    color: white;
+    border: solid;
+    padding: 7px;
+    border-radius: 20px;
+    background-color: brown;
+    
+   
+}
+.navbar {
+    display: flex;
+    justify-content: space-evenly;
+    color: antiquewhite;
+    
+    
+}
+     
+    .navbar1 {
+        color: brown;
+        padding: 30px;
+
+    }
+    .page2pic {
+        border-radius: 50px;
+        border: solid brown;
+        padding: 5px;
+        background-color: beige;
+    }
+    .navbar2 {
+        display: flex;
+        color: brown;
+        padding: 30px;
+
+      
+    }
+    .navbar3 {
+        color: brown;
+        padding: 30px;
+        background-color: beige;
+}
+body {
+    background-color: beige;
+}
+
+
+    
+    .pg2pc2 {
+        display: flex;
+        justify-content: center;
+        background-color: beige;
+        font-size: xx-large; color: brown;
+        border: solid;
+        border-radius: 50px;
+        padding: 5px;
+        image-rendering: auto;
+        margin-right: 70px;
+       
+    }
+    .pg2txt a {
+        display: flex;
+        justify-content: end;
+        font-size: xx-large;
+
+    }
+
+        
+       
+.Ourstory {
+    display: flex;
+    font-size: xx-large;
+    color: brown;
+    background-color: beige;
+    text-align: center;
+    padding-left: 800px
+    ;   
+    
+}
+.pic22 {
+    display: flex;
+    flex-direction: row;
+    font-size: xx-large; color: brown;
+    padding: 20px;
+
+}
+  .page2pic {
+    border-radius: 49px;
+    display: flex;
+    margin-right: 100px;
+
+    
+  }
+  
+  
+
+.page2txt22 {
+    flex: auto;
+    flex-direction: row;
+    justify-content: center;
+    font-size: xx-large; color: brown;
+}
+.p1p1 {
+    display: flex;
+}
+    
+#footer {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    }
+.fb {
+    margin-left: 150px;
+}
+ .tw {
+    margin-right: 
+ }  
+ .inst {
+     margin-right: 300px;
+ }

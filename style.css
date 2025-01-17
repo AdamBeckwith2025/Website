@@ -1,0 +1,179 @@
+.picleft {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        padding: 50;
+        border: solid;
+        border-radius: 50px;
+        border-color: beige;
+        background-color: beige;
+        font-size: x-large;
+        border: solid; color: brown;
+        padding: 5px;
+        
+    }
+    body {
+        background-color: beige;
+    }
+
+    .picleft p {
+        display: flex;
+        font-size: xx-large; color: brown;
+        align-items: center;
+        padding: 5px;
+        padding-left: 100px;
+        
+        
+        
+    }
+    .text-left {
+       display: flex;
+       flex-direction: row;
+    }
+    
+
+    
+     
+.p1 {
+    color: black;
+    padding: 100px;
+    display: flex;
+    justify-content: center;
+    font-size: x-large;  
+    }
+.navlist {
+    display: flex;
+    justify-content: space-evenly;
+    font-size: x-large;
+    color: white;
+    border: solid;
+    padding: 7px;
+    border-radius: 20px;
+    background-color: brown;
+    
+    
+}
+.fg {
+    color: brown;
+    padding: 50px;
+    display: flex;
+    justify-content: center;
+    font-style: unset;
+    font-size: xxx-large;
+    text-decoration: underline;
+    background-color: beige;
+    }
+.pic2 p {
+    display: flex;
+    justify-content: left;
+    font-size: xx-large;
+    padding-left: 190px;
+    padding-top: 80px;
+    flex-direction: row;
+    width: 55%;
+    margin-right: 15px;
+}
+.navbar {
+        display: flex;
+        justify-content: space-between;
+        flex-direction: row;
+        margin-left: 50px;
+        margin-right: 50px;
+        display: flex;
+        font-size: x-large;
+        border-radius: 5px;
+        font-display: calc();
+        background-color: brown;
+        color: antiquewhite;
+        justify-content: space-evenly;
+        }
+        .navbar {
+            display: flex;
+            content: icon;
+            background-color: brown;
+            justify-content: space-evenly;
+   
+}
+
+.slogan {
+    flex-direction: row;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    text-decoration: underline;
+    color: brown;
+    background-color: beige;
+    font-display: calc();
+    
+}
+.pic3 {
+    width: 300%;
+    margin-left: 10px;
+    border: solid; color: brown;
+    border-radius: 30px;
+    padding: 20px;
+    height: 300px;
+    margin-top: 80px;
+    margin-right: 100px;
+    image-rendering: optimizeQuality;
+
+}
+.pg2 {
+    display: flex;
+    flex-direction: row;
+    margin-right: 950px;
+    margin-bottom: px;
+    justify-content: left;
+    font-size: xx-large;
+    color: brown;
+    text-align:left;
+    flex-wrap: initial;
+    padding: 50px;
+    background-color: beige;
+    border-radius: 50px;
+    font: calc;
+    }
+    .textnpic {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        border: solid;
+        border-radius: 50px;
+        border-color: beige;
+        background-color: beige;
+        color: brown; 
+        font-size: xx-large;
+        font: calc;
+    }
+.pic2 a {
+display: flex;
+justify-content: center;
+padding-left: 520px;
+
+
+}
+     
+.price2 {
+    padding-left: 540px;
+    text-decoration: underline;
+    padding: 350px;
+    padding-top: 400px;
+}
+
+    
+
+#footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    justify-content: space-around;
+    padding: 25px;
+    
+
+}
+
+
+
+
+
+
